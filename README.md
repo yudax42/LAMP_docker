@@ -21,24 +21,30 @@ docker run -it -v $PATH:/var/www/html -p 80:80 benaddayoussef/lampdocker
 ```
 
 **You replace $PATH with your working directory**
+![runcontainer](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/dockerruncontainer.jpeg)
 
 after that you just type 
 ```
 sh run.sh
 ```
+![runapache](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/runapache.jpeg)
+
 to run script that start mysql and apache service 
 
 Now just type localhost in your browser
+![localhost](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/website.jpeg)
 
 the webserver works !
-let's try php myadmin by typing localhost/phymyadmin
 
+let's try php myadmin by typing localhost/phymyadmin
+![phpmyadmin](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/phpmyadmin.jpeg)
 
 The username is **root** and the password is also **root**
-
+![enterphpmyadmin](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/phpmyadminworks.jpeg)
 TADA!! phpmyadmin works without any problem
 
 and finally to connect to mysql using your terminal your just type
 ```
 mysql -u root -p
 ```
+![connectmysqlfromterminal](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/mysqlworksalso.jpeg)
