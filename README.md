@@ -1,6 +1,8 @@
 # LAMP_docker
 docker-based LAMP stack (Linux, Apache, MySQL, PHP) with phpmyadmin
 
+![Lamp with docker](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/lampwithdocker.jpg)
+
 ## Objective
 Hosting web content in a linux environment.
 
@@ -10,4 +12,4 @@ A LAMP (Linux, Apache,MySQL,PHP) stack is free and open-source web stack used fo
 ## What is Docker?
 Docker is a container platform for applications. When ups can download pre-configured apps without the hassle of the installation and configuration process.
 
-![Lamp with docker](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/lampwithdocker.jpg)
+
