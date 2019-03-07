@@ -57,3 +57,6 @@ and finally to connect to mysql using your terminal your just type
 mysql -u root -p
 ```
 ![connectmysqlfromterminal](https://raw.githubusercontent.com/Benaddayoussef/LAMP_docker/master/mysqlworksalso.jpeg)
+
+By : Youssef Benadda 
+1337
