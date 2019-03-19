@@ -21,7 +21,7 @@ First install Docker in Your Machine From [Here](https://docs.docker.com/install
 
 then Open Your terminal and type
 ```
-docker run -it -v $PATH:/var/www/html -p 80:80 benaddayoussef/lampdocker
+docker run -it -v $PATH:/var/www/html -p 80:80 benaddayoussef/lampdocker:v2
 ```
 
 **You replace $PATH with your working directory**
