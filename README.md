@@ -1,6 +1,6 @@
 # LAMP_docker
 docker-based LAMP stack (Linux, Apache, MySQL, PHP) with phpmyadmin
-[DockerHub link](https://hub.docker.com/r/benaddayoussef/lampdocker)
+[dockerhub link](https://hub.docker.com/r/benaddayoussef/lampdocker)
 
 ![Lamp with docker](https://raw.githubusercontent.com/yudax42/LAMP_docker/master/lampwithdocker.jpg)
 
